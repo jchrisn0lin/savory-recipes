@@ -16,6 +16,7 @@ main {
   align-content: center;
   grid-auto-rows: 500px;
   grid-auto-flow: column;
+  background-color: #110f0d;
 }
 
 h2 {
